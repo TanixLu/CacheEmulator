@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheEmulator", "CacheEmulator.csproj", "{6228EBFB-EA41-4F8D-BD09-D367DD9DE6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6228EBFB-EA41-4F8D-BD09-D367DD9DE6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6228EBFB-EA41-4F8D-BD09-D367DD9DE6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6228EBFB-EA41-4F8D-BD09-D367DD9DE6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6228EBFB-EA41-4F8D-BD09-D367DD9DE6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F39DE3-86B2-488F-B421-4B7F56B51016}
+	EndGlobalSection
+EndGlobal
